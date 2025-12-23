@@ -2,6 +2,12 @@ USE_REAL_LLM = False
 
 import os
 
+def main():
+    print("Pet AI project is running")
+
+
+if __name__ == "__main__":
+    main()
 
 
 def get_user_idea():
